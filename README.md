@@ -1,2 +1,2 @@
-# realmAssesement
-Assessment for realm digital usng laravel 
+# RealmDigitalAssesement
+Assessment for realm digital using laravel 
